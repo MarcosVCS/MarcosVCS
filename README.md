@@ -1,16 +1,22 @@
-### Hi there 👋
+### Bem-vindo ao meu repositório!
 
-<!--
-**MarcosVCS/MarcosVCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou aprendendo:
 
-Here are some ideas to get you started:
+Atualmente estudo **Desenvolvimento Back-end em Python** de maneira didática e **Engenharia de Dados** com a SoulCode Academy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Meus projetos:
+
+Nesse momento, desenvolvo uma **aplicação que fornece treinos de musculação personalizados para o usuário**, com base em seus objetivos e nos equipamentos disponíveis nas academias cadastradas. Projeto baseado em **Python** e **MySQL**, hospedado na **Google Cloud**.
+Em breve, outros projetos!
+
+Idiomas:
+* Português nativo
+* Inglês fluente
+* Francês intermediário
+
+##
+[![Foo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.valente.c@gmail.com)
+[![Foo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosvalentec)
+[![Foo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5513981540040)
