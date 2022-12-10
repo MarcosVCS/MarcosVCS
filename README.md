@@ -2,7 +2,7 @@
 
 Estou aprendendo:
 
-Atualmente estudo **Desenvolvimento Back-end em Python** de maneira didática e **Engenharia de Dados** com a SoulCode Academy
+Atualmente estudo **Desenvolvimento em Python** de maneira didática e **Engenharia de Dados** com a SoulCode Academy
 
 
 
