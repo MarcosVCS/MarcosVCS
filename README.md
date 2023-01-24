@@ -1,15 +1,20 @@
 ### Bem-vindo ao meu repositório!
 
-Estou aprendendo:
-
-Atualmente estudo **Desenvolvimento em Python** de maneira autoditada e **Engenharia de Dados** com a SoulCode Academy
-
-
+Me chamo Marcos Valente e conclui recentemente o bootcamp de **Engenharia de Dados** pela SoulCode Academy
 
 Meus projetos:
 
-Nesse momento, desenvolvo uma **aplicação que fornece treinos de musculação personalizados para o usuário**, com base em seus objetivos e nos equipamentos disponíveis nas academias cadastradas. Projeto baseado em **Python** e **MySQL**, hospedado na **Google Cloud**.
-Em breve, outros projetos!
+Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma aplicação que fornece treinos de musculação personalizados para o usuário, com base em seus objetivos e nos equipamentos disponíveis nas academias cadastradas. Com esse projeto, quero melhorar meus skills em **Python**, **manejo de banco de dados** (parte mais importante da aplicação), **MySQL** e **Google Cloud**.
+
+Estou estudando:
+* Python (concluindo curso)
+* SQL (complementando meus conhecimentos)
+* Database Management System (DMS)
+* Apache Airflow
+
+Quero estudar:
+* Datawarehouse
+* Cursos avançados de PySpark, Google Cloud, AWS, entre outros
 
 Idiomas:
 * Português nativo
