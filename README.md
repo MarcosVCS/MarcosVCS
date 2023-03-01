@@ -11,7 +11,7 @@ Google Cloud Plataform (GCP) | Python | Pandas | Spark | SQL | NoSQL | MongoDB |
 
 #### Meus projetos:
 
-Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma aplicação que fornece treinos de musculação personalizados para o usuário, com base em seus objetivos e nos equipamentos disponíveis nas academias cadastradas. Com esse projeto, quero melhorar meus skills em **Python**, **manejo de banco de dados** (parte mais importante da aplicação), **MySQL** e **Google Cloud**.
+Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma aplicação que fornece treinos de musculação personalizados para o usuário, com base em seus objetivos e nos equipamentos disponíveis nas academias cadastradas. Com esse projeto, quero melhorar meus skills em **Python**, **manejo de banco de dados** (parte mais importante da aplicação), **MySQL** e **Google Cloud**. (Lançamento da versão beta em breve!)
 
 #### Estou estudando:
 * [Python (concluindo curso)](https://www.udemy.com/course/complete-python-bootcamp/)
