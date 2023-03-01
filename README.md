@@ -15,12 +15,13 @@ Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma 
 
 #### Estou estudando:
 * [Python (concluindo curso)](https://www.udemy.com/course/complete-python-bootcamp/)
-* MySQL (complementando conhecimentos)
-* Database Management System
-* [Apache Airflow](https://www.udemy.com/course/the-complete-hands-on-course-to-master-apache-airflow/)
+* Java (início curso)
+* MySQL (intermediário-avançado)
+* Datawarehouse
 
 #### Quero estudar:
-* Datawarehouse
+* PowerBI
+* Apache Airflow
 * Cursos avançados de PySpark, Google Cloud, AWS, entre outros
 
 #### Idiomas:
