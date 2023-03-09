@@ -10,7 +10,7 @@ In addition to studying to become a Junior Data Engineer, I am developing an app
 * Most of my work is in Portuguese, but I plan to translate them to English in the future.
 
 ### I am studying:
-* Python (completing a course)
+* Python (course completed)
 * Intermediate/ Advanced SQL
 * Database Management System
 * Apache Airflow
