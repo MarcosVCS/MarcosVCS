@@ -17,7 +17,7 @@ Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma 
 * [Python (curso concluído)](https://www.udemy.com/course/complete-python-bootcamp/)
 * Java (início curso)
 * MySQL (intermediário-avançado)
-* Datawarehouse
+* Data Warehouse
 
 #### Quero estudar:
 * PowerBI
