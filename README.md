@@ -14,11 +14,7 @@ Além de estudar para me tornar Engenheiro de Dados Jr, estou desenvolvendo uma 
 * JS/TS + NodeJS
 * MySQL (intermediário-avançado)
 * Data Warehouse
-
-#### Quero estudar:
-* PowerBI
-* Apache Airflow
-* Cursos avançados de PySpark, Google Cloud, AWS, entre outros
+  
 
 #### Idiomas:
 * Português nativo
